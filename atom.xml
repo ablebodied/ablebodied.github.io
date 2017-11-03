@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-11-03T11:31:35.711Z</updated>
+  <updated>2017-11-03T14:24:23.433Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello</title>
+    <link href="http://yoursite.com/2017/11/03/hello/"/>
+    <id>http://yoursite.com/2017/11/03/hello/</id>
+    <published>2017-11-03T14:00:44.000Z</published>
+    <updated>2017-11-03T14:24:23.433Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="HELLO-WORLD"><a href="#HELLO-WORLD" class="headerlink" title="HELLO WORLD"></a>HELLO WORLD</h1><h2 id="Just-a-test"><a href="#Just-a-test" class="headerlink" title="Just a test!"></a>Just a test!</h2><p><a href="https://github.com/ablebodied" target="_blank" rel="external">Github</a></p><hr><p>测试一下数学公式</p><ol><li>$$\sum_{i=1}^n a_i$$</li><li>$$f(x_1,x_x,\ldots,x_n) = x_1^2 + x_2^2 + \cdots + x_n^2 $$</li><li>$$\sum^{j-1}<em>{k=0}{\widehat{\gamma}</em>{kj} z_k}$$</li></ol><p><img src="/images/assets/blogImg/ablebodied.png" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;HELLO-WORLD&quot;&gt;&lt;a href=&quot;#HELLO-WORLD&quot; class=&quot;headerlink&quot; title=&quot;HELLO WORLD&quot;&gt;&lt;/a&gt;HELLO WORLD&lt;/h1&gt;&lt;h2 id=&quot;Just-a-test&quot;&gt;&lt;a href=&quot;#Just-a
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
