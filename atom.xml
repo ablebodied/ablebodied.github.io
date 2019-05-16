@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ablebodied.github.io/"/>
-  <updated>2017-11-03T14:24:23.433Z</updated>
+  <updated>2019-05-16T02:51:01.056Z</updated>
   <id>http://ablebodied.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://ablebodied.github.io/2017/11/03/hello/"/>
     <id>http://ablebodied.github.io/2017/11/03/hello/</id>
     <published>2017-11-03T14:00:44.000Z</published>
-    <updated>2017-11-03T14:24:23.433Z</updated>
+    <updated>2019-05-16T02:51:01.056Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="HELLO-WORLD"><a href="#HELLO-WORLD" class="headerlink" title="HELLO WORLD"></a>HELLO WORLD</h1><h2 id="Just-a-test"><a href="#Just-a-test" class="headerlink" title="Just a test!"></a>Just a test!</h2><p><a href="https://github.com/ablebodied" target="_blank" rel="external">Github</a></p><hr><p>测试一下数学公式</p><ol><li>$$\sum_{i=1}^n a_i$$</li><li>$$f(x_1,x_x,\ldots,x_n) = x_1^2 + x_2^2 + \cdots + x_n^2 $$</li><li>$$\sum^{j-1}<em>{k=0}{\widehat{\gamma}</em>{kj} z_k}$$</li></ol><p><img src="/images/assets/blogImg/ablebodied.png" alt=""></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="HELLO-WORLD"><a href="#HELLO-WORLD" class="headerlink" title="HELLO WORLD"></a>HELLO WORLD</h1><h2 id="Just-a-test"><a href="#Just-a-test" class="headerlink" title="Just a test!"></a>Just a test!</h2><p><a href="https://github.com/ablebodied" target="_blank" rel="external">Github</a></p><hr><p>测试一下数学公式</p><h1 id="1-sum-i-1-n-a-i"><a href="#1-sum-i-1-n-a-i" class="headerlink" title="1. $$\sum_{i=1}^n a_i$$"></a>1. $$\sum_{i=1}^n a_i$$</h1><h1 id="2-f-x-1-x-x-ldots-x-n-x-1-2-x-2-2-cdots-x-n-2"><a href="#2-f-x-1-x-x-ldots-x-n-x-1-2-x-2-2-cdots-x-n-2" class="headerlink" title="2. $$f(x_1,x_x,\ldots,x_n) = x_1^2 + x_2^2 + \cdots + x_n^2 $$"></a>2. $$f(x_1,x_x,\ldots,x_n) = x_1^2 + x_2^2 + \cdots + x_n^2 $$</h1><h1 id="3-sum-j-1-k-0-widehat-gamma-kj-z-k"><a href="#3-sum-j-1-k-0-widehat-gamma-kj-z-k" class="headerlink" title="3. $$\sum^{j-1}{k=0}{\widehat{\gamma}{kj} z_k}$$"></a>3. $$\sum^{j-1}<em>{k=0}{\widehat{\gamma}</em>{kj} z_k}$$</h1><ul><li><img src="https://latex.codecogs.com/gif.latex?f(x_1,x_x,\ldots,x_n" alt=""> = x_1^2 + x_2^2 + \cdots + x_n^2 )</li><li><img src="https://latex.codecogs.com/gif.latex?\sum^{j-1}_{k=0}{\widehat{\gamma}_{kj} z_k}" alt=""><br><img src="/images/assets/blogImg/ablebodied.png" alt=""></li></ul>]]></content>
     
     <summary type="html">
     
