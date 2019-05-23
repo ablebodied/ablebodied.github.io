@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://ablebodied.github.io/"/>
-  <updated>2019-05-23T02:06:34.734Z</updated>
+  <updated>2019-05-23T02:14:05.425Z</updated>
   <id>http://ablebodied.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://ablebodied.github.io/2019/05/23/win10-defender/"/>
     <id>http://ablebodied.github.io/2019/05/23/win10-defender/</id>
     <published>2019-05-23T01:51:23.254Z</published>
-    <updated>2019-05-23T02:06:34.734Z</updated>
+    <updated>2019-05-23T02:14:05.425Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="win10-defender-限制文件夹访问的功能"><a href="#win10-defender-限制文件夹访问的功能" class="headerlink" title="win10 defender 限制文件夹访问的功能"></a>win10 defender 限制文件夹访问的功能</h2><p>今天打开电脑，突然通知中心弹窗显示（如下图）<br><img src="/images/assets/blogImg/2019-05-22_tanchuang.png" alt="弹窗图片" title="弹窗图片"></p><p>原来可以添加某些文件夹到限制访问里面，这样默认应用应该就不能写文件到这些目录了，突然联想到之前python写文件老出问题\<br>是不是也是因为这个呢？试了一下果然是，类似的还有Javac,突然发现问题所在真是开心啊！</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="win10-defender-限制文件夹访问的功能"><a href="#win10-defender-限制文件夹访问的功能" class="headerlink" title="win10 defender 限制文件夹访问的功能"></a>win10 defender 限制文件夹访问的功能</h2><p>今天打开电脑，突然通知中心弹窗显示（如下图）<br><img src="/images/assets/blogImg/2019-05-22_tanchuang.png" alt="弹窗图片" title="弹窗图片"></p><p>原来可以添加某些文件夹到限制访问里面，这样默认应用应该就不能写文件到这些目录了，突然联想到之前python写文件老出问题是不是也是因为这个呢？试了一下果然是，类似的还有Javac,突然发现问题所在真是开心啊！</p>]]></content>
     
     <summary type="html">
     
